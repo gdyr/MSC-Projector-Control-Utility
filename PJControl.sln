@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJControl", "PJControl\PJControl.csproj", "{327166AF-84AF-4473-99FC-4E61018E77C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJConfigure", "PJConfigure\PJConfigure.csproj", "{0D67AE0A-6B56-4279-9589-7FEA5A17305A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PJControl Installer", "PJControl Installer\PJControl Installer.vdproj", "{ECD82392-C850-416B-843F-F7C758AB4038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327166AF-84AF-4473-99FC-4E61018E77C5}.Debug|x86.ActiveCfg = Debug|x86
+		{327166AF-84AF-4473-99FC-4E61018E77C5}.Debug|x86.Build.0 = Debug|x86
+		{327166AF-84AF-4473-99FC-4E61018E77C5}.Release|x86.ActiveCfg = Release|x86
+		{327166AF-84AF-4473-99FC-4E61018E77C5}.Release|x86.Build.0 = Release|x86
+		{0D67AE0A-6B56-4279-9589-7FEA5A17305A}.Debug|x86.ActiveCfg = Debug|x86
+		{0D67AE0A-6B56-4279-9589-7FEA5A17305A}.Debug|x86.Build.0 = Debug|x86
+		{0D67AE0A-6B56-4279-9589-7FEA5A17305A}.Release|x86.ActiveCfg = Release|x86
+		{0D67AE0A-6B56-4279-9589-7FEA5A17305A}.Release|x86.Build.0 = Release|x86
+		{ECD82392-C850-416B-843F-F7C758AB4038}.Debug|x86.ActiveCfg = Debug
+		{ECD82392-C850-416B-843F-F7C758AB4038}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
